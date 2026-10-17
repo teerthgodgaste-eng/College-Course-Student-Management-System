@@ -28,7 +28,7 @@ A modern, production-quality administration dashboard for managing college cours
 - Visible focus indicators
 - Semantic HTML structure
 - Screen reader friendly
-- See [ACCESSIBILITY_AUDIT.md](./ACCESSIBILITY_AUDIT.md) for full report
+
 
 ### 💾 Data Management
 - localStorage persistence
